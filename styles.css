@@ -88,6 +88,7 @@ body {
   display: flex;
   align-items: center;
   padding-top: 4rem;
+  margin-bottom: -6rem;
 }
 
 .hero-content {
@@ -245,6 +246,7 @@ body {
   color: var(--text-secondary);
   margin-bottom: 1.5rem;
   line-height: 1.6;
+  text-align: justify;
 }
 
 .tech-tags {
@@ -315,6 +317,7 @@ body {
   color: var(--text-secondary);
   margin-bottom: 1.5rem;
   line-height: 1.6;
+  text-align: justify;
 }
 
 .project-links {
@@ -357,6 +360,7 @@ body {
   list-style: none;
   display: grid;
   gap: 0.25rem;
+  text-align: justify;
 }
 
 /* Contact Section */
