@@ -360,7 +360,6 @@ body {
   list-style: none;
   display: grid;
   gap: 0.25rem;
-  text-align: justify;
 }
 
 /* Education Section */
